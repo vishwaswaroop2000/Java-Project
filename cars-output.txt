@@ -1,0 +1,19 @@
+Sold:
+YB18NBA, Honda Jazz, Hatchback,, grey, 20000, none, manual, 8000, 2018-09-01,2018-10-04
+NB17GFG, Lexus IS, Saloon,, dark blue, 6000, none, manual, 26100, 2018-10-04,2018-10-14
+VV10BBB, Vauxhall Movano, Van, large, white, 60000, rear windscreen damage,manual, 5000, 2019-01-10, 2019-03-01
+PK14EMD, Mercedes EClass, Coupe,, yellow, 25000, none, automatic, 10400,2018-03-08, 2019-03-02
+PO13FDF, Vauxhall Insignia, Saloon,, green, 45000, none, automatic, 10800, 2018-08-10, 2019-03-05
+HN11PHN, BMW 3, Saloon,, black, 49000, door damage, manual, 9500, 2019-03-01,2019-03-05
+nasda,sada,SUV,,red,131,hasd,Manual,21991,2019-03-01,2019-05-15
+Unsold:
+UU54IOI, Ford SMax, MPV,, red, 70000, none, manual, 11000, 2017-01-13,Not yet sold
+HN19PDH, Jaguar FType, Coupe,, silver, 3000, none, automatic, 52000, 2018-03-01,Not yet sold
+MA67TTP, Mercedes Citan, Van, small, white, 35900, front windscreen damage,automatic, 10000, 2018-08-04,Not yet sold
+PO13FDA, Vauxhall Insignia, Saloon,, red, 40000, none, manual, 10200, 2018-08-10,Not yet sold
+AA13QWE, Ford Transit, Van, small, black, 60000, none, automatic, 7300, 2018-11-01,Not yet sold
+MX67TCP, Mercedes Citan, Van, small, white, 35000, front damage, manual, 9500, 2018-11-04,Not yet sold
+BA66IHN, Lexus IS, Saloon,, white, 23000, indent on passenger door, automatic, 18100, 2019-01-02,Not yet sold
+TT66AAA, Lexus NX, SUV,, dark blue, 12000, none, automatic, 31000,2019-05-10,Not yet sold
+PD64HAH, Vauxhall Movano, Van, large, silver, 60000, none, automatic, 8800,2019-05-10,Not yet sold
+UU54IOI, Ford SMax, MPV,, red, 70000, none, automatic, 3800,2019-05-10,Not yet sold

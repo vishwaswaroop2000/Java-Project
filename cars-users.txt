@@ -1,0 +1,7 @@
+admin1,bqqmf,admin
+staff1,psbohf,staff
+customer1,mfnpo,customer
+viraj,uifcptt,admin
+admin2,bqqmf,admin
+admin12,btelbte,admin
+staff2,btlebtle,staff
